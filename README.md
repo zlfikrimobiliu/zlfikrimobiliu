@@ -10,7 +10,7 @@
     Hi there, I'm Zer0logic
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-  <h3>🧩 Full Stack Engineer | ⚡ DevOps Ops | 🛡 Cybersecurity & Network Ops</h3>
+  <h3>🧩 Full Stack Engineer | ⚡ DevOps | 🛡 Cybersecurity & Network Ops</h3>
   <p>Designing systems, breaking limits, and engineering secure digital infrastructures.</p>
 </div>
 
