@@ -1,10 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zer0logic&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Zer0logic!;+Full+Stack+Developer;+DevOps+Enthusiast;+Problem+Solver!&color=00D9FF&bg=0D1117&pause=1000)
+  
 </div>
 
 <div align="center">
-  <h2>Hi there 👋 I'm zlfikrimobiliu</h2>
-  <p>Full Stack Developer | DevOps Enthusiast</p>
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi there, I'm Zer0logic
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h2>
+  <h3>💻 Full Stack Developer | 🚀 DevOps Enthusiast</h3>
+  <p>Passionate about building scalable applications and automating workflows</p>
 </div>
 
 ---
