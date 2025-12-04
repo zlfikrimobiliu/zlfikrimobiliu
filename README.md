@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there 👋 I'm Zer0logic</h2>
+  <h2>Hi there 👋 I'm zlfikrimobiliu</h2>
   <p>Full Stack Developer | DevOps Enthusiast</p>
 </div>
 
