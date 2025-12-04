@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Zer0logic!;+Full+Stack+Developer;+DevOps+Enthusiast;+Problem+Solver!&color=00D9FF&bg=0D1117&pause=1000)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Zer0logic!;+Full+Stack+Developer;+DevOps+Engineer;+Cybersecurity+%26+Network+Specialist;+Building+%26+Solving+Solutions!&color=00D9FF&bg=0D1117&pause=1000)
   
 </div>
 
@@ -10,8 +10,8 @@
     Hi there, I'm Zer0logic
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-  <h3>💻 Full Stack Developer | 🚀 DevOps Enthusiast</h3>
-  <p>Passionate about building scalable applications and automating workflows</p>
+  <h3>🧩 Full Stack Engineer | ⚡ DevOps Ops | 🛡 Cybersecurity & Network Ops</h3>
+  <p>Designing systems, breaking limits, and engineering secure digital infrastructures.</p>
 </div>
 
 ---
