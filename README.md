@@ -140,14 +140,14 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/4833d1520e3f3d24d12bd43ce052e644e83fadac)** - Update Finish 2.0
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/5cd06bb5c972309bc92cf6783f0cd2722f367148)** - Update README.md
+   `5cd06bb` • 4 Des 2025
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/9a7d2297e53744d10e8b8096dbb0d036bcb97368)** - 🤖 Auto-update README [skip ci]
+   `9a7d229` • 4 Des 2025
+
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/4833d1520e3f3d24d12bd43ce052e644e83fadac)** - Update Finish 2.0
    `4833d15` • 4 Des 2025
-
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/af0d2325486501cd4914a18224e17577975ca5c5)** - 🤖 Auto-update README [skip ci]
-   `af0d232` • 4 Des 2025
-
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/ac5f583c07ea27aa70ae0252b7397f4547a52958)** - � update finish
-   `ac5f583` • 4 Des 2025
 
 4. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/b4bb6e7c05f3bd5c17ac6b17cf6fabeb8136efcc)** - Fix: Logika menabung dan menerima - validasi semua harus menabung dulu
    `b4bb6e7` • 3 Des 2025
