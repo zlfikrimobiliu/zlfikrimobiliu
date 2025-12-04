@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there 👋 I'm Zer0logic</h2>
+  <h2>Hi there 👋 I'm zlfikrimobiliu</h2>
   <p>Full Stack Developer | DevOps Enthusiast</p>
 </div>
 
@@ -53,7 +53,54 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-*Loading projects...*
+### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+   No description
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+
+### 2. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
+   TORANG PE TABUNGAN
+
+   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
+
+### 3. [surya-isna-wedding](https://github.com/zlfikrimobiliu/surya-isna-wedding)
+   Surya & Isna Wedding
+
+   ![Language](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
+
+### 4. [Remote-On-Bestari](https://github.com/zlfikrimobiliu/Remote-On-Bestari)
+   Local Remote
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
+
+### 5. [wedding-revisii1](https://github.com/zlfikrimobiliu/wedding-revisii1)
+   Wedding Test-Revisi 1
+
+   ![Language](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/wedding-revisii1?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/wedding-revisii1?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/wedding-revisii1?style=flat-square)
+
+### 6. [random-project-backend](https://github.com/zlfikrimobiliu/random-project-backend)
+   No description
+
+   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/random-project-backend?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/random-project-backend?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/random-project-backend?style=flat-square)
+
 <!-- PROJECTS:END -->
 
 ---
@@ -61,7 +108,21 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-*Loading commits...*
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/580fae0b973122e66a7f43cd32fb2641f62246be)** - Update README.md
+   `580fae0` • 4 Des 2025
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/31a3ddf86f4b16fb29eb9af98841f7096e7d6a7e)** - 🤖 Auto-update README [skip ci]
+   `31a3ddf` • 4 Des 2025
+
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/350f8f2e7e13951b277f4846635137d62be553a8)** - Replace README with local version
+   `350f8f2` • 4 Des 2025
+
+4. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/b4bb6e7c05f3bd5c17ac6b17cf6fabeb8136efcc)** - Fix: Logika menabung dan menerima - validasi semua harus menabung dulu
+   `b4bb6e7` • 3 Des 2025
+
+5. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/3d571170d57de6f845a19f2bc748b8d551155507)** - Feat: Tambah button reset semua data di admin panel
+   `3d57117` • 3 Des 2025
+
 <!-- COMMITS:END -->
 
 ---
