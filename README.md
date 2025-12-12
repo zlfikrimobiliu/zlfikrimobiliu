@@ -85,21 +85,21 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
-   No description
-
-   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
-
-### 2. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
+### 1. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
    TORANG PE TABUNGAN
 
    ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
+
+### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+   No description
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
 
 ### 3. [surya-isna-wedding](https://github.com/zlfikrimobiliu/surya-isna-wedding)
    Surya & Isna Wedding
@@ -140,20 +140,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/05d49da9df3a4081a401d918c353a434736a35d7)** - 🤖 Auto-update README [skip ci]
+1. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/15efce5c88eacd990bb9f11fd6fde76cdd525ffe)** - update logic
+   `15efce5` • 12 Des 2025
+
+2. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/3f6edc1fc71dc0023946b2b954487a545a6b55ce)** - Update files and remove PANDUAN_LENGKAP.md
+   `3f6edc1` • 12 Des 2025
+
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/75170e18c4c583f53ec3af976bf74893d1e1acad)** - 🤖 Auto-update README [skip ci]
+   `75170e1` • 12 Des 2025
+
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/05d49da9df3a4081a401d918c353a434736a35d7)** - 🤖 Auto-update README [skip ci]
    `05d49da` • 12 Des 2025
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/099b83ec7a477c0dfa699ec7b806b41816fdc732)** - 🤖 Auto-update README [skip ci]
+5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/099b83ec7a477c0dfa699ec7b806b41816fdc732)** - 🤖 Auto-update README [skip ci]
    `099b83e` • 12 Des 2025
-
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/de108069022910ed2d9f94063988849feaadd583)** - 🤖 Auto-update README [skip ci]
-   `de10806` • 11 Des 2025
-
-4. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/b4bb6e7c05f3bd5c17ac6b17cf6fabeb8136efcc)** - Fix: Logika menabung dan menerima - validasi semua harus menabung dulu
-   `b4bb6e7` • 3 Des 2025
-
-5. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/3d571170d57de6f845a19f2bc748b8d551155507)** - Feat: Tambah button reset semua data di admin panel
-   `3d57117` • 3 Des 2025
 
 <!-- COMMITS:END -->
 
