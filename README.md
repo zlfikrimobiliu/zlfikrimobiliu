@@ -140,20 +140,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/15efce5c88eacd990bb9f11fd6fde76cdd525ffe)** - update logic
+1. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/c9b3b67ea597787f8084035acf8c9b88a19685d6)** - update fitur
+   `c9b3b67` • 12 Des 2025
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/c360053c089fdf339c12df5645de823e21093254)** - 🤖 Auto-update README [skip ci]
+   `c360053` • 12 Des 2025
+
+3. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/15efce5c88eacd990bb9f11fd6fde76cdd525ffe)** - update logic
    `15efce5` • 12 Des 2025
 
-2. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/3f6edc1fc71dc0023946b2b954487a545a6b55ce)** - Update files and remove PANDUAN_LENGKAP.md
+4. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/3f6edc1fc71dc0023946b2b954487a545a6b55ce)** - Update files and remove PANDUAN_LENGKAP.md
    `3f6edc1` • 12 Des 2025
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/75170e18c4c583f53ec3af976bf74893d1e1acad)** - 🤖 Auto-update README [skip ci]
+5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/75170e18c4c583f53ec3af976bf74893d1e1acad)** - 🤖 Auto-update README [skip ci]
    `75170e1` • 12 Des 2025
-
-4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/05d49da9df3a4081a401d918c353a434736a35d7)** - 🤖 Auto-update README [skip ci]
-   `05d49da` • 12 Des 2025
-
-5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/099b83ec7a477c0dfa699ec7b806b41816fdc732)** - 🤖 Auto-update README [skip ci]
-   `099b83e` • 12 Des 2025
 
 <!-- COMMITS:END -->
 
