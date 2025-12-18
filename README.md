@@ -85,21 +85,21 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
-   fikrimobiliu.site
-
-   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
-
-### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+
+### 2. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+   fikrimobiliu.site
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
 
 ### 3. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
    TORANG PE TABUNGAN
@@ -140,20 +140,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/7b8ff5b6ced9d761c771eac7f17084b704d167ce)** - fix: update Next.js to 15.5.9 to fix security vulnerability CVE-2025-66478
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/c807abfcaad0210b9b980fa15c88cb83315ce41d)** - 🤖 Auto-update README [skip ci]
+   `c807abf` • 18 Des 2025
+
+2. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/7b8ff5b6ced9d761c771eac7f17084b704d167ce)** - fix: update Next.js to 15.5.9 to fix security vulnerability CVE-2025-66478
    `7b8ff5b` • 18 Des 2025
 
-2. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/ae70a3bc1d87d55982ead8a4a04fd8e40735d6fa)** - update
+3. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/ae70a3bc1d87d55982ead8a4a04fd8e40735d6fa)** - update
    `ae70a3b` • 18 Des 2025
 
-3. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/fd33284652c2eb6e76b69f76562fc3141c2a2df7)** - first commit
+4. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/fd33284652c2eb6e76b69f76562fc3141c2a2df7)** - first commit
    `fd33284` • 18 Des 2025
 
-4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/396f00c4e35a54e56050ce6e7377648332c93460)** - 🤖 Auto-update README [skip ci]
+5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/396f00c4e35a54e56050ce6e7377648332c93460)** - 🤖 Auto-update README [skip ci]
    `396f00c` • 18 Des 2025
-
-5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8cce9debc8027a8c9384dbe1ad204397313a917d)** - 🤖 Auto-update README [skip ci]
-   `8cce9de` • 18 Des 2025
 
 <!-- COMMITS:END -->
 
