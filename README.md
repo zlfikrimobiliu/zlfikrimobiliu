@@ -85,7 +85,15 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [odysseyy-booking](https://github.com/zlfikrimobiliu/odysseyy-booking)
+   https://odybooking.softcomp.io/
+
+   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/odysseyy-booking?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/odysseyy-booking?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/odysseyy-booking?style=flat-square)
+
+### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -93,7 +101,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
 
-### 2. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
+### 3. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
    TORANG PE TABUNGAN
 
    ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -101,7 +109,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
 
-### 3. [surya-isna-wedding](https://github.com/zlfikrimobiliu/surya-isna-wedding)
+### 4. [surya-isna-wedding](https://github.com/zlfikrimobiliu/surya-isna-wedding)
    Surya & Isna Wedding
 
    ![Language](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css)
@@ -109,7 +117,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
 
-### 4. [Remote-On-Bestari](https://github.com/zlfikrimobiliu/Remote-On-Bestari)
+### 5. [Remote-On-Bestari](https://github.com/zlfikrimobiliu/Remote-On-Bestari)
    Local Remote
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -117,21 +125,13 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
 
-### 5. [wedding-revisii1](https://github.com/zlfikrimobiliu/wedding-revisii1)
+### 6. [wedding-revisii1](https://github.com/zlfikrimobiliu/wedding-revisii1)
    Wedding Test-Revisi 1
 
    ![Language](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/wedding-revisii1?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/wedding-revisii1?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/wedding-revisii1?style=flat-square)
-
-### 6. [random-project-backend](https://github.com/zlfikrimobiliu/random-project-backend)
-   No description
-
-   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/random-project-backend?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/random-project-backend?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/random-project-backend?style=flat-square)
 
 <!-- PROJECTS:END -->
 
@@ -140,20 +140,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8daf9306d6e6475c0520791504ca15f2d9828452)** - 🤖 Auto-update README [skip ci]
+1. **[odysseyy-booking](https://github.com/zlfikrimobiliu/odysseyy-booking/commit/b0d987bf3ba6cc6603246cc2627fd8870e94be30)** - first commit
+   `b0d987b` • 18 Des 2025
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8cce9debc8027a8c9384dbe1ad204397313a917d)** - 🤖 Auto-update README [skip ci]
+   `8cce9de` • 18 Des 2025
+
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8daf9306d6e6475c0520791504ca15f2d9828452)** - 🤖 Auto-update README [skip ci]
    `8daf930` • 17 Des 2025
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/70e0ec58eb4bc08ab33fbfeae3ca636de32d8afb)** - 🤖 Auto-update README [skip ci]
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/70e0ec58eb4bc08ab33fbfeae3ca636de32d8afb)** - 🤖 Auto-update README [skip ci]
    `70e0ec5` • 17 Des 2025
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/b05972a9a1ad41025b8a8fbf060e65841ca70c0b)** - 🤖 Auto-update README [skip ci]
-   `b05972a` • 17 Des 2025
-
-4. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/c9b3b67ea597787f8084035acf8c9b88a19685d6)** - update fitur
+5. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/c9b3b67ea597787f8084035acf8c9b88a19685d6)** - update fitur
    `c9b3b67` • 12 Des 2025
-
-5. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/15efce5c88eacd990bb9f11fd6fde76cdd525ffe)** - update logic
-   `15efce5` • 12 Des 2025
 
 <!-- COMMITS:END -->
 
