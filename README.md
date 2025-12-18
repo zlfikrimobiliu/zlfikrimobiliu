@@ -85,13 +85,13 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [odysseyy-booking](https://github.com/zlfikrimobiliu/odysseyy-booking)
-   https://odybooking.softcomp.io/
+### 1. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+   fikrimobiliu.site
 
-   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/odysseyy-booking?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/odysseyy-booking?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/odysseyy-booking?style=flat-square)
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
 
 ### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
@@ -140,20 +140,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[odysseyy-booking](https://github.com/zlfikrimobiliu/odysseyy-booking/commit/b0d987bf3ba6cc6603246cc2627fd8870e94be30)** - first commit
-   `b0d987b` • 18 Des 2025
+1. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/7b8ff5b6ced9d761c771eac7f17084b704d167ce)** - fix: update Next.js to 15.5.9 to fix security vulnerability CVE-2025-66478
+   `7b8ff5b` • 18 Des 2025
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8cce9debc8027a8c9384dbe1ad204397313a917d)** - 🤖 Auto-update README [skip ci]
+2. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/ae70a3bc1d87d55982ead8a4a04fd8e40735d6fa)** - update
+   `ae70a3b` • 18 Des 2025
+
+3. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/fd33284652c2eb6e76b69f76562fc3141c2a2df7)** - first commit
+   `fd33284` • 18 Des 2025
+
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/396f00c4e35a54e56050ce6e7377648332c93460)** - 🤖 Auto-update README [skip ci]
+   `396f00c` • 18 Des 2025
+
+5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8cce9debc8027a8c9384dbe1ad204397313a917d)** - 🤖 Auto-update README [skip ci]
    `8cce9de` • 18 Des 2025
-
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8daf9306d6e6475c0520791504ca15f2d9828452)** - 🤖 Auto-update README [skip ci]
-   `8daf930` • 17 Des 2025
-
-4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/70e0ec58eb4bc08ab33fbfeae3ca636de32d8afb)** - 🤖 Auto-update README [skip ci]
-   `70e0ec5` • 17 Des 2025
-
-5. **[Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua/commit/c9b3b67ea597787f8084035acf8c9b88a19685d6)** - update fitur
-   `c9b3b67` • 12 Des 2025
 
 <!-- COMMITS:END -->
 
