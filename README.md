@@ -140,14 +140,14 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/a00c998a564c6d9666dd6ddff522eb6eeb0ba8e9)** - 🤖 Auto-update README [skip ci]
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/917d6909fa25c30164d493394c850e7fc61f4c56)** - 🤖 Auto-update README [skip ci]
+   `917d690` • 19 Des 2025
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/a00c998a564c6d9666dd6ddff522eb6eeb0ba8e9)** - 🤖 Auto-update README [skip ci]
    `a00c998` • 19 Des 2025
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/435b96eb2ef474d73ded73f50406ac471bcc8056)** - 🤖 Auto-update README [skip ci]
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/435b96eb2ef474d73ded73f50406ac471bcc8056)** - 🤖 Auto-update README [skip ci]
    `435b96e` • 19 Des 2025
-
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/952eb310c758692f11dda5782e945f6147ce0831)** - 🤖 Auto-update README [skip ci]
-   `952eb31` • 18 Des 2025
 
 4. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/7b8ff5b6ced9d761c771eac7f17084b704d167ce)** - fix: update Next.js to 15.5.9 to fix security vulnerability CVE-2025-66478
    `7b8ff5b` • 18 Des 2025
