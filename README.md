@@ -85,21 +85,21 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
-   My Portofolio
-
-   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
-
-### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+
+### 2. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+   My Portofolio
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
 
 ### 3. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
    TORANG PE TABUNGAN
@@ -140,20 +140,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/70795e3c62259b57260160047906bc2727c86120)** - Initial commit
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/9e2556dcc937605a47bc1a2137ce37022adf2514)** - 🤖 Auto-update README [skip ci]
+   `9e2556d` • 21 Jan 2026
+
+2. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/70795e3c62259b57260160047906bc2727c86120)** - Initial commit
    `70795e3` • 21 Jan 2026
 
-2. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/fb7f8b689ac005a8e35c1ce05ea4fe74081b795d)** - Update projects.js and yarn.lock, add SS-Yolective-POS images
+3. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/fb7f8b689ac005a8e35c1ce05ea4fe74081b795d)** - Update projects.js and yarn.lock, add SS-Yolective-POS images
    `fb7f8b6` • 21 Jan 2026
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/13f1cf4cc052f9c8f71f80911319ceb9931114e0)** - 🤖 Auto-update README [skip ci]
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/13f1cf4cc052f9c8f71f80911319ceb9931114e0)** - 🤖 Auto-update README [skip ci]
    `13f1cf4` • 21 Jan 2026
 
-4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/d3dbd73d313d757cf04f0c35ff8015826f03310e)** - 🤖 Auto-update README [skip ci]
+5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/d3dbd73d313d757cf04f0c35ff8015826f03310e)** - 🤖 Auto-update README [skip ci]
    `d3dbd73` • 20 Jan 2026
-
-5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/de38333db539da2cba8c92bf17c18e26f1f734bd)** - 🤖 Auto-update README [skip ci]
-   `de38333` • 20 Jan 2026
 
 <!-- COMMITS:END -->
 
