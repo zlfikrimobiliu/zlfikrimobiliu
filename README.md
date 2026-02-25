@@ -85,7 +85,23 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE)
+   No description
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/OTA-BE?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/OTA-BE?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/OTA-BE?style=flat-square)
+
+### 2. [OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE)
+   No description
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/OTA-FE?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/OTA-FE?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/OTA-FE?style=flat-square)
+
+### 3. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -93,45 +109,13 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
 
-### 2. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+### 4. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
    My Portofolio
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
-
-### 3. [Tabungan-Kawanua](https://github.com/zlfikrimobiliu/Tabungan-Kawanua)
-   TORANG PE TABUNGAN
-
-   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Tabungan-Kawanua?style=flat-square)
-
-### 4. [surya-isna-wedding](https://github.com/zlfikrimobiliu/surya-isna-wedding)
-   Surya & Isna Wedding
-
-   ![Language](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/surya-isna-wedding?style=flat-square)
-
-### 5. [Remote-On-Bestari](https://github.com/zlfikrimobiliu/Remote-On-Bestari)
-   Local Remote
-
-   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Remote-On-Bestari?style=flat-square)
-
-### 6. [wedding-revisii1](https://github.com/zlfikrimobiliu/wedding-revisii1)
-   Wedding Test-Revisi 1
-
-   ![Language](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/wedding-revisii1?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/wedding-revisii1?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/wedding-revisii1?style=flat-square)
 
 <!-- PROJECTS:END -->
 
@@ -140,20 +124,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/873ca1b3619a1491434beb38b14f12c16298c227)** - 🤖 Auto-update README [skip ci]
-   `873ca1b` • 25 Feb 2026
+1. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/81da02161704f0ceb6e1a2cd3b0f5280e79ba5df)** - update
+   `81da021` • 25 Feb 2026
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/de2c391fa20772ba251ffa91649a4905126dcae9)** - 🤖 Auto-update README [skip ci]
-   `de2c391` • 24 Feb 2026
+2. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/6f039551b523874cdd17c671430b9ce3056be26d)** - first commit
+   `6f03955` • 25 Feb 2026
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/a7b8e0d29422fc340f2cf01a016b36ada964e1de)** - 🤖 Auto-update README [skip ci]
-   `a7b8e0d` • 24 Feb 2026
+3. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/dc3e77eea8c32db70df6fe4a07296b9534ec0a7d)** - Delete .env
+   `dc3e77e` • 25 Feb 2026
 
-4. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/70795e3c62259b57260160047906bc2727c86120)** - Initial commit
-   `70795e3` • 21 Jan 2026
+4. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/2fb5b3d5bfbaec7dcaa8eb6bcee85156fa6e9042)** - first commit
+   `2fb5b3d` • 25 Feb 2026
 
-5. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/fb7f8b689ac005a8e35c1ce05ea4fe74081b795d)** - Update projects.js and yarn.lock, add SS-Yolective-POS images
-   `fb7f8b6` • 21 Jan 2026
+5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/30a55fefcf4593a75a6748aa487500f02fddf799)** - 🤖 Auto-update README [skip ci]
+   `30a55fe` • 25 Feb 2026
 
 <!-- COMMITS:END -->
 
