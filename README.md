@@ -85,7 +85,15 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE)
+### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+   No description
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+
+### 2. [OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -93,21 +101,13 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/OTA-BE?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/OTA-BE?style=flat-square)
 
-### 2. [OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE)
+### 3. [OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/OTA-FE?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/OTA-FE?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/OTA-FE?style=flat-square)
-
-### 3. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
-   No description
-
-   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
 
 ### 4. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
    My Portofolio
@@ -124,20 +124,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/81da02161704f0ceb6e1a2cd3b0f5280e79ba5df)** - update
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/19ab6dc83ddff0416ae4e7f8c827e0e71d37c3e0)** - 🤖 Auto-update README [skip ci]
+   `19ab6dc` • 25 Feb 2026
+
+2. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/81da02161704f0ceb6e1a2cd3b0f5280e79ba5df)** - update
    `81da021` • 25 Feb 2026
 
-2. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/6f039551b523874cdd17c671430b9ce3056be26d)** - first commit
+3. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/6f039551b523874cdd17c671430b9ce3056be26d)** - first commit
    `6f03955` • 25 Feb 2026
 
-3. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/dc3e77eea8c32db70df6fe4a07296b9534ec0a7d)** - Delete .env
+4. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/dc3e77eea8c32db70df6fe4a07296b9534ec0a7d)** - Delete .env
    `dc3e77e` • 25 Feb 2026
 
-4. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/2fb5b3d5bfbaec7dcaa8eb6bcee85156fa6e9042)** - first commit
+5. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/2fb5b3d5bfbaec7dcaa8eb6bcee85156fa6e9042)** - first commit
    `2fb5b3d` • 25 Feb 2026
-
-5. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/30a55fefcf4593a75a6748aa487500f02fddf799)** - 🤖 Auto-update README [skip ci]
-   `30a55fe` • 25 Feb 2026
 
 <!-- COMMITS:END -->
 
