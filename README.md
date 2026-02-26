@@ -124,20 +124,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/2b9e9cc2976639b849f318ab9996dce7be0cb46f)** - 🤖 Auto-update README [skip ci]
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/fd1b5c3219d90f9cfff897f895f720d626eb75ca)** - 🤖 Auto-update README [skip ci]
+   `fd1b5c3` • 26 Feb 2026
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/2b9e9cc2976639b849f318ab9996dce7be0cb46f)** - 🤖 Auto-update README [skip ci]
    `2b9e9cc` • 25 Feb 2026
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/19ab6dc83ddff0416ae4e7f8c827e0e71d37c3e0)** - 🤖 Auto-update README [skip ci]
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/19ab6dc83ddff0416ae4e7f8c827e0e71d37c3e0)** - 🤖 Auto-update README [skip ci]
    `19ab6dc` • 25 Feb 2026
 
-3. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/81da02161704f0ceb6e1a2cd3b0f5280e79ba5df)** - update
+4. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/81da02161704f0ceb6e1a2cd3b0f5280e79ba5df)** - update
    `81da021` • 25 Feb 2026
 
-4. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/6f039551b523874cdd17c671430b9ce3056be26d)** - first commit
+5. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/6f039551b523874cdd17c671430b9ce3056be26d)** - first commit
    `6f03955` • 25 Feb 2026
-
-5. **[OTA-FE](https://github.com/zlfikrimobiliu/OTA-FE/commit/dc3e77eea8c32db70df6fe4a07296b9534ec0a7d)** - Delete .env
-   `dc3e77e` • 25 Feb 2026
 
 <!-- COMMITS:END -->
 
