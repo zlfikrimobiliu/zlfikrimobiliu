@@ -85,21 +85,21 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
-   My Portofolio
-
-   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
-
-### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+
+### 2. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+   My Portofolio
+
+   ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Portofolio?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Portofolio?style=flat-square)
 
 ### 3. [OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE)
    No description
@@ -124,17 +124,17 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/c3249732cdaa4928c712187d713c1a6d8d6ae673)** - update portfolio UI, SEO metadata, and POS Bazzar project gallery
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/f122d05d8837dc82d0214816eb89bdb86a496d53)** - 🤖 Auto-update README [skip ci]
+   `f122d05` • 21 Apr 2026
+
+2. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/c3249732cdaa4928c712187d713c1a6d8d6ae673)** - update portfolio UI, SEO metadata, and POS Bazzar project gallery
    `c324973` • 21 Apr 2026
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8076f28e83457cf02134d5ea2770a40c2d9e2434)** - 🤖 Auto-update README [skip ci]
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/8076f28e83457cf02134d5ea2770a40c2d9e2434)** - 🤖 Auto-update README [skip ci]
    `8076f28` • 21 Apr 2026
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/2c4600fbdaa9849fea3313d64ed8947c4a9b85a8)** - 🤖 Auto-update README [skip ci]
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/2c4600fbdaa9849fea3313d64ed8947c4a9b85a8)** - 🤖 Auto-update README [skip ci]
    `2c4600f` • 20 Apr 2026
-
-4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/02faa495bedcadd5aca1c66f8c7777722965a2c1)** - 🤖 Auto-update README [skip ci]
-   `02faa49` • 20 Apr 2026
 
 5. **[OTA-BE](https://github.com/zlfikrimobiliu/OTA-BE/commit/81da02161704f0ceb6e1a2cd3b0f5280e79ba5df)** - update
    `81da021` • 25 Feb 2026
