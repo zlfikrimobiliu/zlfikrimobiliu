@@ -85,21 +85,21 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform)
-   Technical assessment – Laravel + Nuxt task management
-
-   ![Language](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/task-management-platform?style=flat-square)
-   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/task-management-platform?style=flat-square)
-   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/task-management-platform?style=flat-square)
-
-### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
    ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
+
+### 2. [task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform)
+   Technical assessment – Laravel + Nuxt task management
+
+   ![Language](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/task-management-platform?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/task-management-platform?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/task-management-platform?style=flat-square)
 
 ### 3. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
    My Portofolio
@@ -116,17 +116,17 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform/commit/c7823133d06758b69dbabea8c0888528dddd985a)** - feat: task management platform technical assessment
+1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/75c33a1ffa1ae677519feffc957e9ce90c27c650)** - 🤖 Auto-update README [skip ci]
+   `75c33a1` • 26 Mei 2026
+
+2. **[task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform/commit/c7823133d06758b69dbabea8c0888528dddd985a)** - feat: task management platform technical assessment
    `c782313` • 26 Mei 2026
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/fefe8897d135b919c268b484a3e253f36fec377a)** - 🤖 Auto-update README [skip ci]
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/fefe8897d135b919c268b484a3e253f36fec377a)** - 🤖 Auto-update README [skip ci]
    `fefe889` • 26 Mei 2026
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/b7d4265b1dd49195c08d096dd668f0792a984891)** - 🤖 Auto-update README [skip ci]
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/b7d4265b1dd49195c08d096dd668f0792a984891)** - 🤖 Auto-update README [skip ci]
    `b7d4265` • 26 Mei 2026
-
-4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/7f375dcc10b7acceafa95653d6bbfa6cc51c5ee6)** - 🤖 Auto-update README [skip ci]
-   `7f375dc` • 25 Mei 2026
 
 5. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/c3249732cdaa4928c712187d713c1a6d8d6ae673)** - update portfolio UI, SEO metadata, and POS Bazzar project gallery
    `c324973` • 21 Apr 2026
