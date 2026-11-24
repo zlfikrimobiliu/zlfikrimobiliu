@@ -85,7 +85,15 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 1. [Zerodesk](https://github.com/zlfikrimobiliu/Zerodesk)
+   Desktop remote control and device monitoring console built with Tauri, Vue 3, and Rust.
+
+   ![Language](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Zerodesk?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Zerodesk?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Zerodesk?style=flat-square)
+
+### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -93,7 +101,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
 
-### 2. [task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform)
+### 3. [task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform)
    Technical assessment – Laravel + Nuxt task management
 
    ![Language](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
@@ -101,7 +109,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/task-management-platform?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/task-management-platform?style=flat-square)
 
-### 3. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+### 4. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
    My Portofolio
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -116,20 +124,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/1c0961b6d37c20891f5d46f86c2e240ff47b8b4c)** - 🤖 Auto-update README [skip ci]
+1. **[Zerodesk](https://github.com/zlfikrimobiliu/Zerodesk/commit/f6769b205530beab5a6f56a86ba9ad0da111e348)** - Initial commit: ZeroDesk desktop console (Tauri + Vue 3)
+   `f6769b2` • 24 Nov 2026
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/c8c432a860f16a2d8da84bcc5353a1a4946af134)** - 🤖 Auto-update README [skip ci]
+   `c8c432a` • 24 Nov 2026
+
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/1c0961b6d37c20891f5d46f86c2e240ff47b8b4c)** - 🤖 Auto-update README [skip ci]
    `1c0961b` • 23 Nov 2026
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/a98bb8268ae5f19031777ee1a60fa9055e28bbe9)** - 🤖 Auto-update README [skip ci]
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/a98bb8268ae5f19031777ee1a60fa9055e28bbe9)** - 🤖 Auto-update README [skip ci]
    `a98bb82` • 23 Nov 2026
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/29c144e36b9c7e4f100829a894be162ed921b8b3)** - 🤖 Auto-update README [skip ci]
-   `29c144e` • 22 Nov 2026
-
-4. **[task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform/commit/c7823133d06758b69dbabea8c0888528dddd985a)** - feat: task management platform technical assessment
+5. **[task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform/commit/c7823133d06758b69dbabea8c0888528dddd985a)** - feat: task management platform technical assessment
    `c782313` • 26 Mei 2026
-
-5. **[Portofolio](https://github.com/zlfikrimobiliu/Portofolio/commit/c3249732cdaa4928c712187d713c1a6d8d6ae673)** - update portfolio UI, SEO metadata, and POS Bazzar project gallery
-   `c324973` • 21 Apr 2026
 
 <!-- COMMITS:END -->
 
