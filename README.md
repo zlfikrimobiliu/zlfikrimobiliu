@@ -85,7 +85,15 @@
 ## 🔥 Recent Projects
 
 <!-- PROJECTS:START -->
-### 1. [Zerodesk](https://github.com/zlfikrimobiliu/Zerodesk)
+### 1. [Mobile-Chatbot](https://github.com/zlfikrimobiliu/Mobile-Chatbot)
+   Easy Rent Bali Technical Assessment (Track A) — Expo React Native Car Rental Chatbot with 2x Model Context Protocol (MCP) Integration & Neobrutalism Cartoon UI
+
+   ![Language](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+   ![Stars](https://img.shields.io/github/stars/zlfikrimobiliu/Mobile-Chatbot?style=flat-square)
+   ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Mobile-Chatbot?style=flat-square)
+   ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Mobile-Chatbot?style=flat-square)
+
+### 2. [Zerodesk](https://github.com/zlfikrimobiliu/Zerodesk)
    Desktop remote control and device monitoring console built with Tauri, Vue 3, and Rust.
 
    ![Language](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue)
@@ -93,7 +101,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/Zerodesk?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/Zerodesk?style=flat-square)
 
-### 2. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
+### 3. [zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu)
    No description
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -101,7 +109,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/zlfikrimobiliu?style=flat-square)
 
-### 3. [task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform)
+### 4. [task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform)
    Technical assessment – Laravel + Nuxt task management
 
    ![Language](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
@@ -109,7 +117,7 @@
    ![Forks](https://img.shields.io/github/forks/zlfikrimobiliu/task-management-platform?style=flat-square)
    ![Updated](https://img.shields.io/github/last-commit/zlfikrimobiliu/task-management-platform?style=flat-square)
 
-### 4. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
+### 5. [Portofolio](https://github.com/zlfikrimobiliu/Portofolio)
    My Portofolio
 
    ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -124,20 +132,20 @@
 ## 📝 Recent Commits
 
 <!-- COMMITS:START -->
-1. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/55d9641a77c9c9389292b46f934b60455e624533)** - 🤖 Auto-update README [skip ci]
+1. **[Mobile-Chatbot](https://github.com/zlfikrimobiliu/Mobile-Chatbot/commit/ba4c1192c237c7405d911a26f92660a6d698ee85)** - feat: Easy Rent Bali Expo Cartoon Car Rental Chatbot with 2x MCP integration
+   `ba4c119` • 27 Nov 2026
+
+2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/784e13842d8dfd831ca4dd85c25045a80e3c8177)** - 🤖 Auto-update README [skip ci]
+   `784e138` • 27 Nov 2026
+
+3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/55d9641a77c9c9389292b46f934b60455e624533)** - 🤖 Auto-update README [skip ci]
    `55d9641` • 26 Nov 2026
 
-2. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/0e1e7cf548c3662a680d5690fea0c202c11b70be)** - 🤖 Auto-update README [skip ci]
+4. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/0e1e7cf548c3662a680d5690fea0c202c11b70be)** - 🤖 Auto-update README [skip ci]
    `0e1e7cf` • 26 Nov 2026
 
-3. **[zlfikrimobiliu](https://github.com/zlfikrimobiliu/zlfikrimobiliu/commit/fecf7adc2c0f45274ffc9c75c207ee163f5f1281)** - 🤖 Auto-update README [skip ci]
-   `fecf7ad` • 25 Nov 2026
-
-4. **[Zerodesk](https://github.com/zlfikrimobiliu/Zerodesk/commit/f6769b205530beab5a6f56a86ba9ad0da111e348)** - Initial commit: ZeroDesk desktop console (Tauri + Vue 3)
+5. **[Zerodesk](https://github.com/zlfikrimobiliu/Zerodesk/commit/f6769b205530beab5a6f56a86ba9ad0da111e348)** - Initial commit: ZeroDesk desktop console (Tauri + Vue 3)
    `f6769b2` • 24 Nov 2026
-
-5. **[task-management-platform](https://github.com/zlfikrimobiliu/task-management-platform/commit/c7823133d06758b69dbabea8c0888528dddd985a)** - feat: task management platform technical assessment
-   `c782313` • 26 Mei 2026
 
 <!-- COMMITS:END -->
 
